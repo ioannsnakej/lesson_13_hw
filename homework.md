@@ -30,6 +30,16 @@ PS. Задача решается в одну строчку.
 
   <img width="700" height="414" alt="image" src="https://github.com/user-attachments/assets/b438b9cc-8481-479d-8d34-16effd4298f0" />
 
+  Пишу скрипт:
+
+  <img width="748" height="569" alt="image" src="https://github.com/user-attachments/assets/a0573c10-a447-42c0-b133-f4c681ec91d7" />
+
+  Проверяю:
+
+  <img width="1476" height="505" alt="image" src="https://github.com/user-attachments/assets/25708410-7e74-436f-858f-97d92f7496ee" />
+
+
+
   
 
 
