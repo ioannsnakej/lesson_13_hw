@@ -32,7 +32,7 @@ PS. Задача решается в одну строчку.
 
   Пишу скрипт:
 
-  <img width="748" height="569" alt="image" src="https://github.com/user-attachments/assets/a0573c10-a447-42c0-b133-f4c681ec91d7" />
+  <img width="654" height="614" alt="image" src="https://github.com/user-attachments/assets/f3152b63-f537-4178-9fc8-30c15295e97e" />
 
   Проверяю:
 
