@@ -47,6 +47,17 @@ PS. Задача решается в одну строчку.
 
   <img width="1094" height="116" alt="image" src="https://github.com/user-attachments/assets/e1705c4e-cf14-4cf0-857f-7b8579a55b4c" />
 
+  Пишу код, т.к. у самого фантазии не хватило придумать регулярку, а в https://regex101.com/ не смог воспроизвести (надо будет освоить данный инструмент), то регулярку пришлось брать у ИИ, добавил комментарии
+
+  <img width="867" height="534" alt="image" src="https://github.com/user-attachments/assets/2b597da8-4bc1-429f-86aa-41160eb847dd" />
+
+  Проверяю:
+
+  <img width="1389" height="335" alt="image" src="https://github.com/user-attachments/assets/3a80be33-5adc-4ff1-8ae0-d21a2b4269c5" />
+
+
+
+
 
 
   
